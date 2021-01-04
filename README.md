@@ -13,8 +13,8 @@ cd fairseq/examples/translation
 bash prepare-wmt14en2de.sh
 cd ../..
 ```
-original tutorial say 'bash prepare-iwslt14.sh'
-However, It cannot be downloaded anymore. 
+original tutorial used 'bash prepare-iwslt14.sh'.   
+However, It cannot be downloaded anymore.    
 So, We use wmt14en2de
 
 ## 3. prepare data for train
